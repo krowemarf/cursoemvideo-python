@@ -10,4 +10,4 @@ idade = input('Qual é a sua idade?\n>>> ')
 peso = input('Qual é o seu peso?\n>>> ')
 print(nome, idade, peso)
 
-# Exercícios: 001, 002
+# Exercícios: 001, 002, 003
